@@ -30,11 +30,7 @@ Aprendizaje automático (Machine Learning).
 🌱 Intereses y Proyectos
 Me enfoco en crear soluciones que no solo sean funcionales, sino que también ofrezcan una excelente experiencia de usuario. Siempre estoy buscando proyectos que combinen el análisis de sistemas con la toma de decisiones basada en datos.
 
-Actualmente, estoy trabajando en...
 
-[Nombre de tu proyecto 1]
-
-[Nombre de tu proyecto 2]
 
 
 
